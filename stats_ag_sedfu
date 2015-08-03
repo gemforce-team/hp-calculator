@@ -76,19 +76,6 @@ armorFirstWave 52
 armorIncrement 3.4
 snowChance 0.1
 rainChance 0.5
-V15
-wavesNum 28
-giantWavesNum 8
-swarmlingWavesNum 4
-hpFirstWave 24
-hpMult 1.11
-firstBuffedWave 1
-firstNonReaverWave 3
-buffValIncrement 20
-armorFirstWave 6
-armorIncrement 3
-rainChance 0
-snowChance 0
 B1
 wavesNum 30
 giantWavesNum 7
@@ -232,19 +219,6 @@ armorFirstWave 53
 armorIncrement 3.1
 snowChance 0
 rainChance 0
-V3
-wavesNum 228
-giantWavesNum 31
-swarmlingWavesNum 42
-hpFirstWave 84
-hpMult 1.04
-firstBuffedWave 2
-firstNonReaverWave 3
-buffValIncrement 0.1
-armorFirstWave 24
-armorIncrement 1
-rainChance 0
-snowChance 0
 D1
 wavesNum 30
 giantWavesNum 3
@@ -323,19 +297,6 @@ armorFirstWave 1
 armorIncrement 1
 snowChance 0.7
 rainChance 0.3
-V4
-wavesNum 19
-giantWavesNum 0
-swarmlingWavesNum 0
-hpFirstWave 24
-hpMult 1.19
-firstBuffedWave 2
-firstNonReaverWave 3
-buffValIncrement 0.8
-armorFirstWave 24
-armorIncrement 3
-rainChance 1
-snowChance 0
 E1
 wavesNum 20
 giantWavesNum 0
@@ -461,7 +422,7 @@ buffValIncrement 0.2
 giantWavesNum 0
 hpFirstWave 8
 swarmlingWavesNum 0
-hpMult 1.15
+hpMult 1.1
 armorFirstWave 5
 armorIncrement 2
 wavesNum 9
@@ -505,19 +466,6 @@ armorFirstWave 9
 armorIncrement 2
 snowChance 0
 rainChance 0.4
-V14
-wavesNum 32
-giantWavesNum 7
-swarmlingWavesNum 10
-hpFirstWave 423
-hpMult 1.08
-firstBuffedWave 25
-firstNonReaverWave 3
-buffValIncrement 0.1
-armorFirstWave 2
-armorIncrement 5
-rainChance 0.1
-snowChance 0
 G1
 wavesNum 35
 giantWavesNum 4
@@ -596,19 +544,6 @@ armorFirstWave 44
 armorIncrement 3.3
 snowChance 0
 rainChance 0
-V16
-wavesNum 46
-giantWavesNum 3
-swarmlingWavesNum 14
-hpFirstWave 42
-hpMult 1.05
-firstBuffedWave 2
-firstNonReaverWave 3
-buffValIncrement 0.8
-armorFirstWave 19
-armorIncrement 7
-rainChance 0.1
-snowChance 0
 H1
 wavesNum 25
 giantWavesNum 2
@@ -674,32 +609,6 @@ armorFirstWave 17
 armorIncrement 1.9
 snowChance 0.4
 rainChance 0.8
-H6
-wavesNum 48
-giantWavesNum 26
-swarmlingWavesNum 10
-hpFirstWave 73
-hpMult 1.11
-firstBuffedWave 3
-firstNonReaverWave 1
-buffValIncrement 1
-armorFirstWave 14
-armorIncrement 7
-snowChance 0.4
-rainChance 0.8
-V11
-wavesNum 24
-giantWavesNum 24
-swarmlingWavesNum 0
-hpFirstWave 7
-hpMult 1.16
-firstBuffedWave 1
-firstNonReaverWave 0
-buffValIncrement 1.4
-armorFirstWave 120
-armorIncrement 14
-rainChance 0.3
-snowChance 0
 I1
 wavesNum 15
 giantWavesNum 0
@@ -843,32 +752,6 @@ armorFirstWave 6
 armorIncrement 2.5
 snowChance 0
 rainChance 0
-V8
-wavesNum 40
-giantWavesNum 31
-swarmlingWavesNum 3
-hpFirstWave 24
-hpMult 1.09
-firstBuffedWave 2
-firstNonReaverWave 5
-buffValIncrement 1.1
-armorFirstWave 2
-armorIncrement 2.1
-rainChance 1
-snowChance 0
-V18
-wavesNum 40
-giantWavesNum 2
-swarmlingWavesNum 7
-hpFirstWave 80
-hpMult 1.098
-firstBuffedWave 2
-firstNonReaverWave 3
-buffValIncrement 0.8
-armorFirstWave 12
-armorIncrement 3
-rainChance 0.6
-snowChance 0
 K1
 wavesNum 30
 giantWavesNum 16
@@ -947,19 +830,6 @@ armorFirstWave 38
 armorIncrement 2.8
 snowChance 1
 rainChance 0
-V1
-giantWavesNum 7
-hpFirstWave 38
-swarmlingWavesNum 18
-hpMult 1.075
-armorFirstWave 13
-armorIncrement 3.2
-wavesNum 99
-firstBuffedWave 25
-firstNonReaverWave 3
-buffValIncrement 0.6
-rainChance 0
-snowChance 0
 L1
 wavesNum 42
 giantWavesNum 8
@@ -1038,19 +908,6 @@ armorFirstWave 49
 armorIncrement 3.3
 snowChance 0.4
 rainChance 0.7
-V5
-wavesNum 46
-giantWavesNum 0
-swarmlingWavesNum 0
-hpFirstWave 68
-hpMult 1.095
-firstBuffedWave 2
-firstNonReaverWave 3
-buffValIncrement 1.1
-armorFirstWave 8
-armorIncrement 4
-rainChance 0.1
-snowChance 0.8
 M1
 wavesNum 27
 giantWavesNum 0
@@ -1233,19 +1090,6 @@ armorFirstWave 167
 armorIncrement 21
 snowChance 0
 rainChance 0
-V10
-wavesNum 36
-giantWavesNum 21
-swarmlingWavesNum 0
-hpFirstWave 25
-hpMult 1.11
-firstBuffedWave 2
-firstNonReaverWave 5
-buffValIncrement 4
-armorFirstWave 6
-armorIncrement 8
-rainChance 0.1
-snowChance 0
 O1
 wavesNum 50
 giantWavesNum 8
@@ -1402,19 +1246,6 @@ armorFirstWave 6
 armorIncrement 1
 snowChance 0.6
 rainChance 0.4
-V2
-armorFirstWave 22
-wavesNum 99
-firstBuffedWave 23
-firstNonReaverWave 3
-buffValIncrement 0.7
-giantWavesNum 8
-hpFirstWave 52
-swarmlingWavesNum 20
-hpMult 1.075
-armorIncrement 2.4
-rainChance 0
-snowChance 0
 Q1
 wavesNum 45
 giantWavesNum 7
@@ -1506,19 +1337,6 @@ armorFirstWave 193
 armorIncrement 22
 snowChance 0
 rainChance 0.3
-V7
-wavesNum 40
-giantWavesNum 6
-swarmlingWavesNum 9
-hpFirstWave 24
-hpMult 1.17
-firstBuffedWave 2
-firstNonReaverWave 3
-buffValIncrement 1.4
-armorFirstWave 17
-armorIncrement 3
-rainChance 0
-snowChance 0
 R1
 wavesNum 60
 giantWavesNum 22
@@ -1597,19 +1415,6 @@ armorFirstWave 77
 armorIncrement 3.8
 snowChance 1
 rainChance 1
-V13
-wavesNum 40
-giantWavesNum 3
-swarmlingWavesNum 9
-hpFirstWave 134
-hpMult 1.06
-firstBuffedWave 40
-firstNonReaverWave 10
-buffValIncrement 0.8
-armorFirstWave 1
-armorIncrement 28
-rainChance 0.2
-snowChance 0
 T1
 wavesNum 56
 giantWavesNum 13
@@ -1792,32 +1597,6 @@ armorFirstWave 83
 armorIncrement 4
 snowChance 0
 rainChance 0.2
-U7
-wavesNum 42
-giantWavesNum 17
-swarmlingWavesNum 16
-hpFirstWave 200
-hpMult 1.15
-firstBuffedWave 1
-firstNonReaverWave 1
-buffValIncrement 1
-armorFirstWave 99
-armorIncrement 4
-snowChance 0
-rainChance 0.2
-V6
-wavesNum 29
-giantWavesNum 2
-swarmlingWavesNum 27
-hpFirstWave 35
-hpMult 1.07
-firstBuffedWave 2
-firstNonReaverWave 1
-buffValIncrement 1.8
-armorFirstWave 16
-armorIncrement 3
-rainChance 0.2
-snowChance 0
 W1
 wavesNum 57
 giantWavesNum 22
@@ -1896,19 +1675,6 @@ armorFirstWave 75
 armorIncrement 4
 snowChance 0.4
 rainChance 0
-V17
-wavesNum 48
-giantWavesNum 16
-swarmlingWavesNum 16
-hpFirstWave 76
-hpMult 1.08
-firstBuffedWave 2
-firstNonReaverWave 3
-buffValIncrement 0.8
-armorFirstWave 0
-armorIncrement 9
-rainChance 0
-snowChance 0
 X1
 wavesNum 70
 giantWavesNum 18
@@ -2000,19 +1766,6 @@ armorFirstWave 4
 hpFirstWave 220
 snowChance 0
 rainChance 0.4
-V12
-wavesNum 32
-giantWavesNum 13
-swarmlingWavesNum 5
-hpFirstWave 24
-hpMult 1.19
-firstBuffedWave 2
-firstNonReaverWave 3
-buffValIncrement 7.3
-armorFirstWave 17
-armorIncrement 3.7
-rainChance 0
-snowChance 0.3
 Y1
 wavesNum 50
 swarmlingWavesNum 9
@@ -2091,6 +1844,136 @@ armorFirstWave 123
 armorIncrement 3.3
 snowChance 0
 rainChance 0
+V1
+giantWavesNum 7
+hpFirstWave 38
+swarmlingWavesNum 18
+hpMult 1.075
+armorFirstWave 13
+armorIncrement 3.2
+wavesNum 99
+firstBuffedWave 25
+firstNonReaverWave 3
+buffValIncrement 0.6
+rainChance 0
+snowChance 0
+V2
+armorFirstWave 22
+wavesNum 99
+firstBuffedWave 23
+firstNonReaverWave 3
+buffValIncrement 0.7
+giantWavesNum 8
+hpFirstWave 52
+swarmlingWavesNum 20
+hpMult 1.075
+armorIncrement 2.4
+rainChance 0
+snowChance 0
+V3
+wavesNum 228
+giantWavesNum 31
+swarmlingWavesNum 42
+hpFirstWave 84
+hpMult 1.04
+firstBuffedWave 2
+firstNonReaverWave 3
+buffValIncrement 0.1
+armorFirstWave 24
+armorIncrement 1
+rainChance 0
+snowChance 0
+V4
+wavesNum 19
+giantWavesNum 0
+swarmlingWavesNum 0
+hpFirstWave 24
+hpMult 1.19
+firstBuffedWave 2
+firstNonReaverWave 3
+buffValIncrement 0.8
+armorFirstWave 24
+armorIncrement 3
+rainChance 1
+snowChance 0
+H6
+wavesNum 48
+giantWavesNum 26
+swarmlingWavesNum 10
+hpFirstWave 73
+hpMult 1.11
+firstBuffedWave 3
+firstNonReaverWave 1
+buffValIncrement 1
+armorFirstWave 14
+armorIncrement 7
+snowChance 0.4
+rainChance 0.8
+U7
+wavesNum 42
+giantWavesNum 17
+swarmlingWavesNum 16
+hpFirstWave 200
+hpMult 1.1
+firstBuffedWave 1
+firstNonReaverWave 1
+buffValIncrement 1
+armorFirstWave 99
+armorIncrement 4
+snowChance 0
+rainChance 0.2
+V5
+wavesNum 46
+giantWavesNum 0
+swarmlingWavesNum 0
+hpFirstWave 68
+hpMult 1.095
+firstBuffedWave 2
+firstNonReaverWave 3
+buffValIncrement 1.1
+armorFirstWave 8
+armorIncrement 4
+rainChance 0.1
+snowChance 0.8
+V6
+wavesNum 29
+giantWavesNum 2
+swarmlingWavesNum 27
+hpFirstWave 35
+hpMult 1.07
+firstBuffedWave 2
+firstNonReaverWave 1
+buffValIncrement 1.8
+armorFirstWave 16
+armorIncrement 3
+rainChance 0.2
+snowChance 0
+V7
+wavesNum 40
+giantWavesNum 6
+swarmlingWavesNum 9
+hpFirstWave 24
+hpMult 1.17
+firstBuffedWave 2
+firstNonReaverWave 3
+buffValIncrement 1.4
+armorFirstWave 17
+armorIncrement 3
+rainChance 0
+snowChance 0
+V8
+wavesNum 40
+giantWavesNum 31
+swarmlingWavesNum 3
+hpFirstWave 24
+hpMult 1.09
+firstBuffedWave 2
+firstNonReaverWave 5
+buffValIncrement 1.1
+armorFirstWave 2
+armorIncrement 2.1
+rainChance 1
+snowChance 0
 V9
 wavesNum 50
 giantWavesNum 18
@@ -2104,3 +1987,120 @@ armorFirstWave 9
 armorIncrement 3
 rainChance 1
 snowChance 1
+V10
+wavesNum 36
+giantWavesNum 21
+swarmlingWavesNum 0
+hpFirstWave 25
+hpMult 1.11
+firstBuffedWave 2
+firstNonReaverWave 5
+buffValIncrement 4
+armorFirstWave 6
+armorIncrement 8
+rainChance 0.1
+snowChance 0
+V11
+wavesNum 24
+giantWavesNum 24
+swarmlingWavesNum 0
+hpFirstWave 7
+hpMult 1.16
+firstBuffedWave 1
+firstNonReaverWave 0
+buffValIncrement 1.4
+armorFirstWave 120
+armorIncrement 14
+rainChance 0.3
+snowChance 0
+V12
+wavesNum 32
+giantWavesNum 13
+swarmlingWavesNum 5
+hpFirstWave 24
+hpMult 1.19
+firstBuffedWave 2
+firstNonReaverWave 3
+buffValIncrement 7.3
+armorFirstWave 17
+armorIncrement 3.7
+rainChance 0
+snowChance 0.3
+V13
+wavesNum 40
+giantWavesNum 3
+swarmlingWavesNum 9
+hpFirstWave 134
+hpMult 1.06
+firstBuffedWave 40
+firstNonReaverWave 10
+buffValIncrement 0.8
+armorFirstWave 1
+armorIncrement 28
+rainChance 0.2
+snowChance 0
+V14
+wavesNum 32
+giantWavesNum 7
+swarmlingWavesNum 10
+hpFirstWave 423
+hpMult 1.08
+firstBuffedWave 25
+firstNonReaverWave 3
+buffValIncrement 0.1
+armorFirstWave 2
+armorIncrement 5
+rainChance 0.1
+snowChance 0
+V15
+wavesNum 28
+giantWavesNum 8
+swarmlingWavesNum 4
+hpFirstWave 24
+hpMult 1.11
+firstBuffedWave 1
+firstNonReaverWave 3
+buffValIncrement 20
+armorFirstWave 6
+armorIncrement 3
+rainChance 0
+snowChance 0
+V16
+wavesNum 46
+giantWavesNum 3
+swarmlingWavesNum 14
+hpFirstWave 42
+hpMult 1.05
+firstBuffedWave 2
+firstNonReaverWave 3
+buffValIncrement 0.8
+armorFirstWave 19
+armorIncrement 7
+rainChance 0.1
+snowChance 0
+V17
+wavesNum 48
+giantWavesNum 16
+swarmlingWavesNum 16
+hpFirstWave 76
+hpMult 1.08
+firstBuffedWave 2
+firstNonReaverWave 3
+buffValIncrement 0.8
+armorFirstWave 0
+armorIncrement 9
+rainChance 0
+snowChance 0
+V18
+wavesNum 40
+giantWavesNum 2
+swarmlingWavesNum 7
+hpFirstWave 80
+hpMult 1.098
+firstBuffedWave 2
+firstNonReaverWave 3
+buffValIncrement 0.8
+armorFirstWave 12
+armorIncrement 3
+rainChance 0.6
+snowChance 0
