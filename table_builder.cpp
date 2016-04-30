@@ -215,7 +215,6 @@ int main(int, char **argv)
 	
 	vector<field> fields;
 	
-	string line;
 	while (1) {
 		char hex;
 		int num;
@@ -228,15 +227,15 @@ int main(int, char **argv)
 			double value;
 			file >> var >> value;
 			
-			if (var=="wavesNum") newfield.wavesNum = value;
-			if (var=="giantWavesNum") newfield.giantWavesNum = value;
+			if (var=="wavesNum")          newfield.wavesNum = value;
+			if (var=="giantWavesNum")     newfield.giantWavesNum = value;
 			if (var=="swarmlingWavesNum") newfield.swarmlingWavesNum = value;
-			if (var=="hpFirstWave") newfield.hpFirstWave = value;
-			if (var=="hpMult") newfield.hpMult = value;
-			if (var=="armorFirstWave") newfield.armorFirstWave = value;
-			if (var=="armorIncrement") newfield.armorIncrement = value;
-			if (var=="snowChance") newfield.snowChance = value;
-			if (var=="rainChance") newfield.rainChance = value;
+			if (var=="hpFirstWave")       newfield.hpFirstWave = value;
+			if (var=="hpMult")            newfield.hpMult = value;
+			if (var=="armorFirstWave")    newfield.armorFirstWave = value;
+			if (var=="armorIncrement")    newfield.armorIncrement = value;
+			if (var=="snowChance")        newfield.snowChance = value;
+			if (var=="rainChance")        newfield.rainChance = value;
 		}
 		fields.push_back(newfield);
 	}
